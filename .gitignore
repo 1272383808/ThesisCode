@@ -14,6 +14,5 @@ logs/
 output/
 slicetxt/MRPC
 slicetxt/WNLI
-BERT_BASE_DIR/8-3
-BERT_BASE_DIR/uncased_L-12_H-768_A-12
+BERT_BASE_DIR
 README.md
